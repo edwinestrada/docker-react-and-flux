@@ -1,5 +1,7 @@
 https://app.pluralsight.com/player?course=react-flux-building-applications&author=cory-house
 
+https://github.com/coryhouse/react-flux-building-applications
+
 ---
 
 Folders
